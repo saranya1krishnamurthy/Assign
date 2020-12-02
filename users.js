@@ -42,8 +42,7 @@ const userRoutes = (app, fs) => {
     app.post('/users', (req, res) => {
 
         readFile(data => {
-            //const newUserId = Object.keys(data).length + 1;
-            //const newUserId =uuid1;
+            
             const newUserId =Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
 
             // add the new user
