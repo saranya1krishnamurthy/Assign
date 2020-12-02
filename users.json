@@ -1,0 +1,38 @@
+{
+  "e202qsoz0aggc0zsw4zl9q": {
+    "Employee name": "daddy shark",
+    "password": "thisisme",
+    "profession": "Developer",
+    "id": 3
+  },
+  "2bjtrvk2njwgn7hjiu912q": {
+    "Employee name": "Yashwanth K",
+    "password": "The1ya",
+    "profession": "Engineer",
+    "id": 1
+  },
+  "nsck4182zlm4j6hwkhi0rh": {
+    "Employee name": "granny shark",
+    "password": "notthis",
+    "profession": "Data Scientist",
+    "id": 3
+  },
+  "vw59bs84ecxdpyevs082e": {
+    "Employee name": "sister shark",
+    "password": "12345",
+    "profession": "software engineer",
+    "id": 3
+  },
+  "z2fgktjno1h26w3c22vo8": {
+    "Employee name": "grandpa shark",
+    "password": "54321",
+    "profession": "Quality Analyst",
+    "id": 3
+  },
+  "ww2papewmwk0njr4dagq5v9": {
+    "Employee name": "mommy shark",
+    "password": "asdfgh",
+    "profession": "Manager",
+    "id": 6
+  }
+}
